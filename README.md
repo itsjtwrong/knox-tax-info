@@ -1,2 +1,2 @@
 # knox-tax-info
-A place to save the tak information of Knox College
+A place to save the tax information of Knox College
